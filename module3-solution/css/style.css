@@ -1,0 +1,33 @@
+.navbar-brand {
+  position: relative;
+  color: #ed9aba !important;
+}
+
+#collapsable-nav {
+  clear: left;
+  background-color: #ed9aba;
+}
+
+#collapsable-nav a {
+  text-align: center;
+  color: white;
+}
+
+#collapsable-nav a:hover {
+  font-weight: 700;
+  background-color: #b0748b;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.container-fluid {
+  background-color: #74b08d;
+  margin: 20px 20px;
+}
+
+.container-fluid p.text-center {
+  font-size: 200%;
+}
+/*# sourceMappingURL=style.css.map */
