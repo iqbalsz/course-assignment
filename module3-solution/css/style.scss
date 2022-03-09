@@ -1,3 +1,7 @@
+body {
+  font-family: roboto;
+}
+
 .navbar-brand {
   position: relative;
   color: #ed9aba !important;
@@ -8,7 +12,6 @@
   background-color: #ed9aba;
 
   a {
-    text-align: center;
     color: white;
   }
 
@@ -22,11 +25,13 @@ h1 {
   font-weight: bold;
 }
 
-.container-fluid {
+.content-box {
   background-color: #74b08d;
-  margin: 20px 20px;
+  padding: 20px;
+  margin: 40px;
 
   p.text-center {
     font-size: 200%;
+    font-weight: bold;
   }
 }
